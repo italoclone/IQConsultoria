@@ -6,7 +6,6 @@ date: 2018-01-24
 comments: false
 ---
 
-Preencha o formulário que retornamos o contato
 <div id="contact">
     <h2>Entre em contato</h2>
     <div id="contact-form">
