@@ -8,8 +8,19 @@ comments: false
 
 Preencha o formulário que retornamos o contato
 
-<form method="POST" action="https://formspree.io/italoclone@gmail.com">
-  <div markdown="0"> <input name="email" placeholder="Seu e-mail" type="email"></div>
-  <div markdown="0"> <textarea name="message" placeholder="Sua mensagem"></textarea></div>
-<div markdown="0"><button type="submit" class="btn">Enviar</button></div>
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/italoclone@gmail.com"
+  method="POST"
+>
+  <label>
+    E-mail:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Mensagem:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
