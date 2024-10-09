@@ -10,7 +10,7 @@ Preencha o formulário que retornamos o contato
 <div id="contact">
     <h2>Entre em contato</h2>
     <div id="contact-form">
-        <form action="https://formspree.io/f/italoclone@gmail.com" method="POST">
+        <form action="https://formspree.io/f/xrbgzdla" method="POST">
             <input type="hidden" name="_subject" value="Formulário de contato IQConsultoria" />
             <input type="email" name="_replyto" placeholder="E-mail" required>
             <textarea name="message" placeholder="Mensagem" required></textarea>
